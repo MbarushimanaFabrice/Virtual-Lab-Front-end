@@ -1,0 +1,11 @@
+.homepage{
+    /* background-image: linear-gradient(#292e2962,#5660917a,#5d645686),url(https://rwanda.vvob.org/sites/rwanda/files/styles/780pxx330px/public/images/mainimagebig/img_9701.jpg?itok=vfyWiFN1); */
+    /* background-image: linear-gradient(#272c2771,#3037617e,#30332dbb),url(https://gdb.voanews.com/31F84DF8-409C-48F9-957E-8A042B0459A3_cx0_cy10_cw0_w1200_r1.jpg); */
+    background-image: linear-gradient(#272c2771,#3037617e,#30332dbb),url("download.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+}
+
+

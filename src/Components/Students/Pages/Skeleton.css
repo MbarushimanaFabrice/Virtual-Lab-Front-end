@@ -1,0 +1,34 @@
+
+/* caases skelleton */
+
+
+.Skelleton{
+	animation: skelleton-loding 1s linear infinite alternate;
+  opacity: .7;
+   width: 83%;
+   height: 40vh;
+
+}
+.Skelleton-text{
+	animation: skelleton-loding 1s linear infinite alternate;
+	margin-bottom: 0.24rem;
+	border-radius: 3px;
+	 
+}
+.Skelleton-dates{
+	animation: skelleton-loding 1s linear infinite alternate;
+	width: 83%;
+
+}
+.Skelleton-text:last-child{
+	border-bottom: 0;
+	width: 80%;
+}
+@keyframes skelleton-loding{
+	0%{
+		background-color:hsl(200, 20%, 70%);
+	}
+	100%{
+		background-color:hsl(200, 20%, 95%);
+	}
+}
